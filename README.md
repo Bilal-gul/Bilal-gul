@@ -5,7 +5,8 @@
 🧠 Yapay zeka ve makine öğrenmesi alanlarına ilgi duyuyorum.
 
 ## ✨ Projelerim:
-- 🏦 [ATM Simülasyonu (C++)]()  
+- 🏦 [ATM Simülasyonu (C++)]()
+- Konsol tabanlı ATM simülasyonu – C++ ile geliştirilmiştir.
 - 🧮 [Basit Hesap Makinesi (C++)]()
 
 ## 📫 Bana ulaş:
