@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Merhaba! Ben Bilal Gül
 
-<!--
-**Bilal-gul/Bilal-gul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Kayseri Üniversitesi | Yazılım Mühendisliği 1. sınıf öğrencisiyim.  
+💻 C ve C++ ile temel projeler geliştiriyorum.  
+🧠 Yapay zeka ve makine öğrenmesi alanlarına ilgi duyuyorum.
 
-Here are some ideas to get you started:
+## ✨ Projelerim:
+- 🏦 [ATM Simülasyonu (C++)]()  
+- 🧮 [Basit Hesap Makinesi (C++)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Bana ulaş:
+- E-posta: ym.bilalgul@gmail.com
+
