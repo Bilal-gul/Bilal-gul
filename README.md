@@ -2,7 +2,7 @@
 
 🎓 Kayseri Üniversitesi | Yazılım Mühendisliği 1. sınıf öğrencisiyim.  
 💻 C ve C++ ile temel projeler geliştiriyorum.  
-🧠 Yapay zeka ve makine öğrenmesi alanlarına ilgi duyuyorum.
+🧠 Yapay zeka ve makine öğrenmesi alanlarında kendimi geliştiriyorum.
 
 ## ✨ Projelerim:
 - 🏦 [ATM Simülasyonu (C++)]()
