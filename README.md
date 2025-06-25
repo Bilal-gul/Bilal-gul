@@ -7,7 +7,7 @@
 ## ✨ Projelerim:
 - 🏦 [ATM Simülasyonu (C++)]()
 - Konsol tabanlı ATM simülasyonu – C++ ile geliştirilmiştir.
-- 🧮 [Basit Hesap Makinesi (C++)]()
+- 🧮 [Basit Hesap Makinesi (C++)](https://github.com/Bilal-gul/Basit-Hesap-Makinesi)
 
 ## 📫 Bana ulaş:
 - E-posta: ym.bilalgul@gmail.com
