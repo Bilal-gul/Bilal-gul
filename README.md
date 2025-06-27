@@ -9,6 +9,8 @@
 - Konsol tabanlı ATM simülasyonu – C++ ile geliştirilmiştir.
 - 🧮 [Basit Hesap Makinesi (C++)](https://github.com/Bilal-gul/Basit-Hesap-Makinesi)
 - Konsol tabanlı hesap makinesi – C++ ile geliştirilmiştir.
+- 🏫 [Okul Otomasyon Sistemi (C++)](https://github.com/Bilal-gul/okul-otomasyon-sistemi)
+- Konsol tabanlı okul otomasyon sistemi – C++ ile geliştirilmiştir.
 ## 📫 Bana ulaş:
 - E-posta: ym.bilalgul@gmail.com
 
