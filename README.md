@@ -11,7 +11,7 @@
 - Konsol tabanlı hesap makinesi – C++ ile geliştirilmiştir.
 - 🏫 [Okul Otomasyon Sistemi (C++)](https://github.com/Bilal-gul/okul-otomasyon-sistemi)
 - Konsol tabanlı okul otomasyon sistemi – C++ ile geliştirilmiştir.
--  [Ehliyet Sınavı Simülasyonu (C++)](https://github.com/Bilal-gul/Ehliyet-s-nav-sistemi)
+- 🚦 [Ehliyet Sınavı Simülasyonu (C++)](https://github.com/Bilal-gul/Ehliyet-s-nav-sistemi)
 - - Konsol tabanlı ehliyet sınavı simülasyonu – C++ ile geliştirilmiştir.
 ## 📫 Bana ulaş:
 - E-posta: ym.bilalgul@gmail.com
