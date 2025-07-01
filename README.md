@@ -13,6 +13,8 @@
 - Konsol tabanlı okul otomasyon sistemi – C++ ile geliştirilmiştir.
 - 🚦 [Ehliyet Sınavı Simülasyonu (C++)](https://github.com/Bilal-gul/Ehliyet-s-nav-sistemi)
 - Konsol tabanlı ehliyet sınavı simülasyonu – C++ ile geliştirilmiştir.
+- 📚 [Kütüphane Takip Sistemi (C++)]()
+- Konsol tabanlı kütüphane takip sistemi – C++ ile geliştirilmiştir.
 ## 📫 Bana ulaş:
 - E-posta: ym.bilalgul@gmail.com
 
