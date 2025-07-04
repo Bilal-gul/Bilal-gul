@@ -15,6 +15,8 @@
 - Konsol tabanlı ehliyet sınavı simülasyonu – C++ ile geliştirilmiştir.
 - 📚 [Kütüphane Takip Sistemi (C++)](https://github.com/Bilal-gul/K-t-phane-takip-sistemi)
 - Konsol tabanlı kütüphane takip sistemi – C++ ile geliştirilmiştir.
+- 📚 [Kütüphane Takip Sistemi (C++)](https://github.com/Bilal-gul/K-t-phane-takip-sistemi)
+- Konsol tabanlı kütüphane takip sistemi – C++ ile geliştirilmiştir.
 ## 📫 Bana ulaş:
 - E-posta: ym.bilalgul@gmail.com
 
