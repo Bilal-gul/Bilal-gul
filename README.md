@@ -17,6 +17,8 @@
 - Konsol tabanlı kütüphane takip sistemi – C++ ile geliştirilmiştir.
 - 🎓 [Ders Yönetim Sistemi (C++)](https://github.com/Bilal-gul/Ders-y-netim-sistemi)
 - Konsol tabanlı ders yönetim sistemi – C++ ile geliştirilmiştir.
+-  [Yapay Zeka Tahmin Oyunu (C++)](https://github.com/Bilal-gul/yapay-zeka-tahmin-oyunu)
+- Yapay Zeka Tahmin Oyunu – C++ ile geliştirilmiştir.
 ## 📫 Bana ulaş:
 - E-posta: ym.bilalgul@gmail.com
 
