@@ -19,8 +19,8 @@
 - Konsol tabanlı ders yönetim sistemi – C++ ile geliştirilmiştir.
 - 🧠 [Yapay Zeka Tahmin Oyunu (C++)](https://github.com/Bilal-gul/yapay-zeka-tahmin-oyunu)
 - Yapay Zeka Tahmin Oyunu – C++ ile geliştirilmiştir.
-- 🧠 [Yapay Zeka Tahmin Oyunu (C++)]()
-- Yapay Zeka Tahmin Oyunu – C++ ile geliştirilmiştir.
+- 🧠 [Şifre Tahmin Oyunu (C++)](https://github.com/Bilal-gul/-sifre-Tahmin-Oyunu)
+- Şifre Tahmin Oyunu – C++ ile geliştirilmiştir.
 ## 📫 Bana ulaş:
 - E-posta: ym.bilalgul@gmail.com
 
