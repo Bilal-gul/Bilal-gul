@@ -23,6 +23,8 @@
 - Şifre Tahmin Oyunu – C++ ile geliştirilmiştir.
 - 🤖 [Basit Chatbot (C++)](https://github.com/Bilal-gul/Basit-Chatbot)
 - Basit Chatbot – C++ ile geliştirilmiştir.
+- 📐 [Denklem çözücü (C++)](https://github.com/Bilal-gul/denklem-cozucu-cpp)
+- Denklem Çözücü – C++ ile geliştirilmiştir.
 ## 📫 Bana ulaş:
 - E-posta: ym.bilalgul@gmail.com
 
