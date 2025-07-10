@@ -25,7 +25,7 @@
 - Basit Chatbot – C++ ile geliştirilmiştir.
 - 📐 [Denklem çözücü (C++)](https://github.com/Bilal-gul/denklem-cozucu-cpp)
 - Denklem Çözücü – C++ ile geliştirilmiştir.🎬
-- 🎬 [Film Öneri Asistanı (C++)](https://github.com/Bilal-gul/Basit-Chatbot)
+- 🎬 [Film Öneri Asistanı (C++)](https://github.com/Bilal-gul/film-oneri-asistani)
 - Film Öneri Asistanı – C++ ile geliştirilmiştir.
 ## 📫 Bana ulaş:
 - E-posta: ym.bilalgul@gmail.com
