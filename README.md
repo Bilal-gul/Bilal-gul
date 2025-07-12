@@ -29,6 +29,8 @@
 - Film Öneri Asistanı – C++ ile geliştirilmiştir.
 - 🧠 [Öğrenebilen Chatbot (C++)](https://github.com/Bilal-gul/Chatbot-2)
 - Öğrenebilen Chatbot – C++ ile geliştirilmiştir.
+- 🧠 [Mini Classifier Bot (C++)](https://github.com/Bilal-gul/Mini-Classifier-Bot)
+- Mini Classifier Bot – C++ ile geliştirilmiştir.
 ## 📫 Bana ulaş:
 - E-posta: ym.bilalgul@gmail.com
 
