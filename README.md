@@ -1,6 +1,6 @@
 # 👋 Merhaba! Ben Bilal Gül
 
-🎓 Kayseri Üniversitesi | Yazılım Mühendisliği 1. sınıf öğrencisiyim.  
+🎓 Kayseri Üniversitesi | Yazılım Mühendisliği 2. sınıf öğrencisiyim.  
 💻 C ve C++ ile temel projeler geliştiriyorum.  
 🧠 Yapay zeka ve makine öğrenmesi alanlarında kendimi geliştiriyorum.
 
