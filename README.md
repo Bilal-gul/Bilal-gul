@@ -31,7 +31,7 @@
 - Öğrenebilen Chatbot – C++ ile geliştirilmiştir.
 - 🧠 [Mini Classifier Bot (C++)](https://github.com/Bilal-gul/Mini-Classifier-Bot)
 - Mini Classifier Bot – C++ ile geliştirilmiştir.
-- 🔬 [Otonom Brownian Motion Analiz Motoru & Avogadro Hesabı](https://github.com/Bilal-gul/avogadro-motion-tracker)
+- 🔬 [Otonom Brownian Motion Analiz Motoru & Avogadro Hesabı](https://github.com/Bilal-gul/avogadro-brownian-motion-tracker)
 - Görüntü işleme (OpenCV) ve istatistiksel fizik kullanarak mikroskobik polen takibi yapan ve Avogadro Sabitini %0.23 sapmayla hesaplayan yapay görme motoru.
 ## 📫 Bana ulaş:
 - E-posta: ym.bilalgul@gmail.com
