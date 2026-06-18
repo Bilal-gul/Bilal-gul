@@ -1,42 +1,43 @@
-# 👋 Merhaba! Ben Bilal Gül
+# 👋 Hi, I'm Bilal Gül
 
-🎓 Kayseri Üniversitesi | Yazılım Mühendisliği 2. sınıf öğrencisiyim.  
-💻 C ve C++ ile temel projeler geliştiriyorum.  
-🧠 Yapay zeka ve makine öğrenmesi alanlarında kendimi geliştiriyorum.
+I am a 2nd-year Software Engineering student at Kayseri University, focused on building high-performance systems and exploring data-driven software solutions.
 
-## ✨ Projelerim:
-- 💎 [Diamond Price Prediction from Scratch](https://github.com/Bilal-gul/IoT-Device-Telemetry-Management-System)
-- A zero-dependency machine learning pipeline implementing vectorized Multiple Linear Regression and Gradient Descent from scratch using NumPy. Achieved a **90.67% $R^2$ score**.
-- 🔬 [Otonom Brownian Motion Analiz Motoru & Avogadro Hesabı](https://github.com/Bilal-gul/avogadro-brownian-motion-tracker)
-- Görüntü işleme (OpenCV) ve istatistiksel fizik kullanarak mikroskobik polen takibi yapan ve Avogadro Sabitini %0.23 sapmayla hesaplayan yapay görme motoru.
-- 📊 [IoT Device & Telemetry Management System](https://github.com/Bilal-gul/IoT-Device-Telemetry-Management-System)
-- An advanced relational database solution built with T-SQL, featuring time-based partitioning, dynamic risk evaluation triggers, and operational monitoring views.
-- 🤖 [Basit Chatbot (C++)](https://github.com/Bilal-gul/Basit-Chatbot)
-- Basit Chatbot – C++ ile geliştirilmiştir.
-- 🧠 [Öğrenebilen Chatbot (C++)](https://github.com/Bilal-gul/Chatbot-2)
-- Öğrenebilen Chatbot – C++ ile geliştirilmiştir.
-- 🧠 [Mini Classifier Bot (C++)](https://github.com/Bilal-gul/Mini-Classifier-Bot)
-- Mini Classifier Bot – C++ ile geliştirilmiştir.
-- 🧠 [Yapay Zeka Tahmin Oyunu (C++)](https://github.com/Bilal-gul/yapay-zeka-tahmin-oyunu)
-- Yapay Zeka Tahmin Oyunu – C++ ile geliştirilmiştir.
-- 🔐 [Şifre Tahmin Oyunu (C++)](https://github.com/Bilal-gul/-sifre-Tahmin-Oyunu)
-- Şifre Tahmin Oyunu – C++ ile geliştirilmiştir.
-- 🏫 [Okul Otomasyon Sistemi (C++)](https://github.com/Bilal-gul/okul-otomasyon-sistemi)
-- Konsol tabanlı okul otomasyon sistemi – C++ ile geliştirilmiştir.
-- 📚 [Kütüphane Takip Sistemi (C++)](https://github.com/Bilal-gul/K-t-phane-takip-sistemi)
-- Konsol tabanlı kütüphane takip sistemi – C++ ile geliştirilmiştir.
-- 🎓 [Ders Yönetim Sistemi (C++)](https://github.com/Bilal-gul/Ders-y-netim-sistemi)
-- Konsol tabanlı ders yönetim sistemi – C++ ile geliştirilmiştir.
-- 🚦 [Ehliyet Sınavı Simülasyonu (C++)](https://github.com/Bilal-gul/Ehliyet-s-nav-sistemi)
-- Konsol tabanlı ehliyet sınavı simülasyonu – C++ ile geliştirilmiştir.
-- 🎬 [Film Öneri Asistanı (C++)](https://github.com/Bilal-gul/film-oneri-asistani)
-- Film Öneri Asistanı – C++ ile geliştirilmiştir.
-- 📐 [Denklem çözücü (C++)](https://github.com/Bilal-gul/denklem-cozucu-cpp)
-- Denklem Çözücü – C++ ile geliştirilmiştir.
-- 🏦 [ATM Simülasyonu (C++)](https://github.com/Bilal-gul/Atm-Sim-lasyonu)
-- Konsol tabanlı ATM simülasyonu – C++ ile geliştirilmiştir.
-- 🧮 [Basit Hesap Makinesi (C++)](https://github.com/Bilal-gul/Basit-Hesap-Makinesi)
-- Konsol tabanlı hesap makinesi – C++ ile geliştirilmiştir.
-## 📫 Bana ulaş:
-- E-posta: ym.bilalgul@gmail.com
+* 💻 Developing fundamental and advanced projects using C and C++.
+* 🤖 Deepening my knowledge in Artificial Intelligence and Machine Learning pipeline design.
 
+---
+
+## 🛠️ Featured Projects
+
+### 💎 [Diamond Price Prediction from Scratch](https://github.com/Bilal-gul/Diamond-Price-Prediction-from-Scratch)
+A zero-dependency machine learning pipeline implementing vectorized Multiple Linear Regression and Gradient Descent from scratch using NumPy. Features advanced feature transformations and zero-leakage normalization, achieving a **90.67% R² score**.
+
+### 📊 [IoT Device & Telemetry Management System](https://github.com/Bilal-gul/IoT-Device-Telemetry-Management-System)
+An advanced enterprise relational database architecture built with T-SQL. Implements horizontal time-based database partitioning, real-time trigger-based risk evaluation engines, and pre-compiled structural monitoring views.
+
+### 🌌 [Autonomous Brownian Motion Analyzer & Avogadro Calculator](https://github.com/Bilal-gul/avogadro-brownian-motion-tracker)
+A specialized computer vision tracker that analyzes microscopic pollen displacement using OpenCV and statistical physics to compute the Avogadro Constant dynamically with a minimal 0.23% margin of error.
+
+---
+
+## 📂 Core Development Portfolio (C++)
+
+* 🤖 **[Adaptive Chatbot Engine](https://github.com/Bilal-gul/Chatbot-2)** - A lightweight, console-based conversational script infrastructure written in native C++.
+* 📊 **[Mini Classifier Bot](https://github.com/Bilal-gul/Mini-Classifier-Bot)** - Implements basic structural data sorting routines directly at the console layer.
+* 🎮 **[AI Guessing Game](https://github.com/Bilal-gul/yapay-zeka-tahmin-oyunu)** - Interactive logic game utilizing systematic state conditions.
+* 🔐 **[Cipher Guessing Game](https://github.com/Bilal-gul/sifre-Tahmin-Oyunu)** - Algorithmic security playground focusing on iterative string processing.
+* 🏫 **[Academic Automation System](https://github.com/Bilal-gul/okul-otomasyon-sistemi)** - Relational object management modeling student data matrix operations.
+* 📚 **[Library Tracking System](https://github.com/Bilal-gul/k-tphane-takip-sistemi)** - Comprehensive inventory and checkout tracking architecture.
+* 📝 **[Course Management Engine](https://github.com/Bilal-gul/Ders-y-netim-sistemi)** - Structural database system organizing academic lecture bounds.
+* 🚗 **[License Examination Simulator](https://github.com/Bilal-gul/Ehliyet-s-nav-sistemi)** - State-machine based systematic user test runtime environment.
+* 🎬 **[Movie Recommendation Assistant](https://github.com/Bilal-gul/film-oneri-asistani)** - Conditional filtering architecture managing media metadata.
+* 📐 **[Equation Solver Core](https://github.com/Bilal-gul/denklem-cozucu-cpp)** - Mathematical formula parsing engine processing automated algebraic computations.
+* 🏧 **[ATM Simulation Runtime](https://github.com/Bilal-gul/Atm-sim-lasyonu)** - Secure transaction logic system modeling standard banking operations.
+* 🧮 **[Basic Calculator System](https://github.com/Bilal-gul/Basit-Hesap-Makinesi)** - Clean implementation of standard arithmetic matrix utilities.
+* 💬 **[Basic Chatbot Core](https://github.com/Bilal-gul/Basit-Chatbot)** - Simple conversational script tracking static lookup conditions.
+
+---
+
+## 📬 Connect with Me
+
+* 📧 **Email:** ym.bilalgul@gmail.com
