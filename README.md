@@ -5,6 +5,8 @@
 🧠 Yapay zeka ve makine öğrenmesi alanlarında kendimi geliştiriyorum.
 
 ## ✨ Projelerim:
+- 💎 [Diamond Price Prediction from Scratch](https://github.com/Bilal-gul/IoT-Device-Telemetry-Management-System)
+- A zero-dependency machine learning pipeline implementing vectorized Multiple Linear Regression and Gradient Descent from scratch using NumPy. Achieved a **90.67% $R^2$ score**.
 - 🔬 [Otonom Brownian Motion Analiz Motoru & Avogadro Hesabı](https://github.com/Bilal-gul/avogadro-brownian-motion-tracker)
 - Görüntü işleme (OpenCV) ve istatistiksel fizik kullanarak mikroskobik polen takibi yapan ve Avogadro Sabitini %0.23 sapmayla hesaplayan yapay görme motoru.
 - 📊 [IoT Device & Telemetry Management System](https://github.com/Bilal-gul/IoT-Device-Telemetry-Management-System)
