@@ -25,9 +25,9 @@ A specialized computer vision tracker that analyzes microscopic pollen displacem
 * 🤖 **[Adaptive Chatbot Engine](https://github.com/Bilal-gul/Chatbot-2)** - A lightweight, console-based conversational script infrastructure written in native C++.
 * 📊 **[Mini Classifier Bot](https://github.com/Bilal-gul/Mini-Classifier-Bot)** - Implements basic structural data sorting routines directly at the console layer.
 * 🎮 **[AI Guessing Game](https://github.com/Bilal-gul/yapay-zeka-tahmin-oyunu)** - Interactive logic game utilizing systematic state conditions.
-* 🔐 **[Cipher Guessing Game](https://github.com/Bilal-gul/sifre-Tahmin-Oyunu)** - Algorithmic security playground focusing on iterative string processing.
+* 🔐 **[Cipher Guessing Game](https://github.com/Bilal-gul/-sifre-Tahmin-Oyunu)** - Algorithmic security playground focusing on iterative string processing.
 * 🏫 **[Academic Automation System](https://github.com/Bilal-gul/okul-otomasyon-sistemi)** - Relational object management modeling student data matrix operations.
-* 📚 **[Library Tracking System](https://github.com/Bilal-gul/k-tphane-takip-sistemi)** - Comprehensive inventory and checkout tracking architecture.
+* 📚 **[Library Tracking System](https://github.com/Bilal-gul/K-t-phane-takip-sistemi)** - Comprehensive inventory and checkout tracking architecture.
 * 📝 **[Course Management Engine](https://github.com/Bilal-gul/Ders-y-netim-sistemi)** - Structural database system organizing academic lecture bounds.
 * 🚗 **[License Examination Simulator](https://github.com/Bilal-gul/Ehliyet-s-nav-sistemi)** - State-machine based systematic user test runtime environment.
 * 🎬 **[Movie Recommendation Assistant](https://github.com/Bilal-gul/film-oneri-asistani)** - Conditional filtering architecture managing media metadata.
