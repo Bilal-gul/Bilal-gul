@@ -12,6 +12,9 @@ I am a 2nd-year Software Engineering student at Kayseri University, focused on b
 ### 💎 [Diamond Price Prediction from Scratch](https://github.com/Bilal-gul/Diamond-Price-Prediction-from-Scratch)
 A zero-dependency machine learning pipeline implementing vectorized Multiple Linear Regression and Gradient Descent from scratch using NumPy. Features advanced feature transformations and zero-leakage normalization, achieving a **90.67% R² score**.
 
+### 🩺 [Diabetes Prediction AI From Scratch](https://github.com/Bilal-gul/Diabetes_Prediction_Ai)
+A zero-dependency machine learning project implementing **Logistic Regression from scratch** using NumPy. Features Gradient Ascent optimization, Log-Likelihood maximization, feature normalization, model serialization, evaluation metrics, and training visualizations without relying on Scikit-Learn.
+
 ### 📊 [IoT Device & Telemetry Management System](https://github.com/Bilal-gul/IoT-Device-Telemetry-Management-System)
 An advanced enterprise relational database architecture built with T-SQL. Implements horizontal time-based database partitioning, real-time trigger-based risk evaluation engines, and pre-compiled structural monitoring views.
 
