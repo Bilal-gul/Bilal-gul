@@ -16,7 +16,7 @@ A zero-dependency machine learning pipeline implementing vectorized Multiple Lin
 A zero-dependency machine learning project implementing **Logistic Regression from scratch** using NumPy. Features Gradient Ascent optimization, Log-Likelihood maximization, feature normalization, model serialization, evaluation metrics, and training visualizations without relying on Scikit-Learn.
 
 ### 🌲 [Softmax Regression From Scratch](https://github.com/Bilal-gul/Softmax-Regression-From-Scratch)
-A zero-dependency multiclass machine learning implementation of **Softmax Regression** built entirely with **NumPy**. Features vectorized Gradient Descent, Cross-Entropy Loss, One-Hot Encoding, Z-Score normalization, model serialization, prediction interface, confusion matrix visualization, and evaluation metrics without relying on Scikit-Learn.
+A zero-dependency multiclass machine learning implementation of **Softmax Regression** built entirely with **NumPy**. Features vectorized Gradient Descent optimization, Cross-Entropy Loss, One-Hot Encoding, Z-Score normalization, model serialization, prediction interface, confusion matrix visualization, and evaluation metrics without relying on Scikit-Learn.
 
 ### 📊 [IoT Device & Telemetry Management System](https://github.com/Bilal-gul/IoT-Device-Telemetry-Management-System)
 An advanced enterprise relational database architecture built with T-SQL. Implements horizontal time-based database partitioning, real-time trigger-based risk evaluation engines, and pre-compiled structural monitoring views.
