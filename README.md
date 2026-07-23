@@ -18,6 +18,9 @@ A zero-dependency machine learning project implementing **Logistic Regression fr
 ### 🌲 [Softmax Regression From Scratch](https://github.com/Bilal-gul/Softmax-Regression-From-Scratch)
 A zero-dependency multiclass machine learning implementation of **Softmax Regression** built entirely with **NumPy**. Features vectorized Gradient Descent optimization, Cross-Entropy Loss, One-Hot Encoding, Z-Score normalization, model serialization, prediction interface, confusion matrix visualization, and evaluation metrics without relying on Scikit-Learn.
 
+### 🧬 Colonoscopy Image Classification From Scratch [https://github.com/Bilal-gul/Colonoscopy-Image-Classification-from-Scratch]
+A zero-dependency multiclass colonoscopy image classification project implementing Softmax Regression from scratch using NumPy. Features L2 Regularization, K-Fold Cross-Validation for hyperparameter selection, Z-Score normalization, Gradient Descent optimization, training visualization, confusion matrix analysis, and comprehensive evaluation metrics without relying on Scikit-Learn.
+
 ### 📊 [IoT Device & Telemetry Management System](https://github.com/Bilal-gul/IoT-Device-Telemetry-Management-System)
 An advanced enterprise relational database architecture built with T-SQL. Implements horizontal time-based database partitioning, real-time trigger-based risk evaluation engines, and pre-compiled structural monitoring views.
 
