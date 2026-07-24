@@ -1,9 +1,27 @@
 # 👋 Hi, I'm Bilal Gül
 
-I am a 2nd-year Software Engineering student at Kayseri University, focused on building high-performance systems and exploring data-driven software solutions.
+I am a **3rd-year Software Engineering student at Kayseri University**, specialized in **Machine Learning, Artificial Intelligence, and Computer Vision**. 
 
-* 💻 Developing fundamental and advanced projects using C and C++.
-* 🤖 Deepening my knowledge in Artificial Intelligence and Machine Learning pipeline design.
+My core focus is building **zero-dependency AI pipelines from mathematical first principles** (from scratch using NumPy) to deeply understand vectorization, gradient-based optimization, and model architecture before leveraging high-level frameworks.
+
+---
+
+### 🎯 Key Focus Areas
+
+- 🧠 **AI & ML Engineering:** Building Machine Learning algorithms (Regression, Classification, Regularization, Optimization) from mathematical scratch.
+- 📐 **Data Hygiene & Rigor:** Implementing zero-data-leakage normalization pipelines and robust validation techniques (K-Fold CV, Hyperparameter Tuning).
+- ⚙️ **Next Frontiers:** Expanding into Deep Learning architectures (MLP, Backpropagation), Computer Vision (OpenCV), and Edge AI/Embedded Systems for autonomous tech.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
