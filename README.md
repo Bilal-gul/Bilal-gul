@@ -39,11 +39,16 @@ A zero-dependency multiclass machine learning implementation of **Softmax Regres
 ### 🧬 [Colonoscopy Image Classification From Scratch](https://github.com/Bilal-gul/Colonoscopy-Image-Classification-from-Scratch)
 A zero-dependency multiclass colonoscopy image classification project implementing Softmax Regression from scratch using NumPy. Features L2 Regularization, K-Fold Cross-Validation for hyperparameter selection, Z-Score normalization, Gradient Descent optimization, training visualization, confusion matrix analysis, and comprehensive evaluation metrics without relying on Scikit-Learn.
 
+### 🧠 [Ensemble Learning Algorithms From Scratch](https://github.com/Bilal-gul/Ensemble-Learning-From-Scratch)
+A zero-dependency machine learning lab implementing powerful tree-based ensemble algorithms (**Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost**) entirely from scratch using NumPy. Features custom splitting criteria (Gini Impurity, Variance Reduction), sequential training, weight updates, and custom evaluation metrics without relying on Scikit-Learn or any high-level frameworks.
+
 ### 📊 [IoT Device & Telemetry Management System](https://github.com/Bilal-gul/IoT-Device-Telemetry-Management-System)
 An advanced enterprise relational database architecture built with T-SQL. Implements horizontal time-based database partitioning, real-time trigger-based risk evaluation engines, and pre-compiled structural monitoring views.
 
 ### 🌌 [Autonomous Brownian Motion Analyzer & Avogadro Calculator](https://github.com/Bilal-gul/avogadro-brownian-motion-tracker)
 A specialized computer vision tracker that analyzes microscopic pollen displacement using OpenCV and statistical physics to compute the Avogadro Constant dynamically with a minimal 0.23% margin of error.
+
+
 
 ---
 
