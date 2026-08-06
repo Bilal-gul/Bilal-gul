@@ -27,28 +27,26 @@ My core focus is building **zero-dependency AI pipelines from mathematical first
 
 ## 🛠️ Featured Projects
 
-### 💎 [Diamond Price Prediction from Scratch](https://github.com/Bilal-gul/Diamond-Price-Prediction-from-Scratch)
-A zero-dependency machine learning pipeline implementing vectorized Multiple Linear Regression and Gradient Descent from scratch using NumPy. Features advanced feature transformations and zero-leakage normalization, achieving a **90.67% R² score**.
-
-### 🩺 [Diabetes Prediction AI From Scratch](https://github.com/Bilal-gul/Diabetes_Prediction_Ai)
-A zero-dependency machine learning project implementing **Logistic Regression from scratch** using NumPy. Features Gradient Ascent optimization, Log-Likelihood maximization, feature normalization, model serialization, evaluation metrics, and training visualizations without relying on Scikit-Learn.
-
-### 🌲 [Softmax Regression From Scratch](https://github.com/Bilal-gul/Softmax-Regression-From-Scratch)
-A zero-dependency multiclass machine learning implementation of **Softmax Regression** built entirely with **NumPy**. Features vectorized Gradient Descent optimization, Cross-Entropy Loss, One-Hot Encoding, Z-Score normalization, model serialization, prediction interface, confusion matrix visualization, and evaluation metrics without relying on Scikit-Learn.
+### 🧠 [Ensemble Learning Algorithms From Scratch](https://github.com/Bilal-gul/Ensemble-Learning-From-Scratch)
+A zero-dependency machine learning lab implementing powerful tree-based ensemble algorithms (**Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost**) entirely from scratch using NumPy. Features custom splitting criteria (Gini Impurity, Variance Reduction), sequential training, weight updates, and custom evaluation metrics without relying on Scikit-Learn or any high-level frameworks.
 
 ### 🧬 [Colonoscopy Image Classification From Scratch](https://github.com/Bilal-gul/Colonoscopy-Image-Classification-from-Scratch)
 A zero-dependency multiclass colonoscopy image classification project implementing Softmax Regression from scratch using NumPy. Features L2 Regularization, K-Fold Cross-Validation for hyperparameter selection, Z-Score normalization, Gradient Descent optimization, training visualization, confusion matrix analysis, and comprehensive evaluation metrics without relying on Scikit-Learn.
 
-### 🧠 [Ensemble Learning Algorithms From Scratch](https://github.com/Bilal-gul/Ensemble-Learning-From-Scratch)
-A zero-dependency machine learning lab implementing powerful tree-based ensemble algorithms (**Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost**) entirely from scratch using NumPy. Features custom splitting criteria (Gini Impurity, Variance Reduction), sequential training, weight updates, and custom evaluation metrics without relying on Scikit-Learn or any high-level frameworks.
+### 🌲 [Softmax Regression From Scratch](https://github.com/Bilal-gul/Softmax-Regression-From-Scratch)
+A zero-dependency multiclass machine learning implementation of **Softmax Regression** built entirely with **NumPy**. Features vectorized Gradient Descent optimization, Cross-Entropy Loss, One-Hot Encoding, Z-Score normalization, model serialization, prediction interface, confusion matrix visualization, and evaluation metrics without relying on Scikit-Learn.
+
+### 🩺 [Diabetes Prediction AI From Scratch](https://github.com/Bilal-gul/Diabetes_Prediction_Ai)
+A zero-dependency machine learning project implementing **Logistic Regression from scratch** using NumPy. Features Gradient Ascent optimization, Log-Likelihood maximization, feature normalization, model serialization, evaluation metrics, and training visualizations without relying on Scikit-Learn.
+
+### 💎 [Diamond Price Prediction from Scratch](https://github.com/Bilal-gul/Diamond-Price-Prediction-from-Scratch)
+A zero-dependency machine learning pipeline implementing vectorized Multiple Linear Regression and Gradient Descent from scratch using NumPy. Features advanced feature transformations and zero-leakage normalization, achieving a **90.67% R² score**.
 
 ### 📊 [IoT Device & Telemetry Management System](https://github.com/Bilal-gul/IoT-Device-Telemetry-Management-System)
 An advanced enterprise relational database architecture built with T-SQL. Implements horizontal time-based database partitioning, real-time trigger-based risk evaluation engines, and pre-compiled structural monitoring views.
 
 ### 🌌 [Autonomous Brownian Motion Analyzer & Avogadro Calculator](https://github.com/Bilal-gul/avogadro-brownian-motion-tracker)
 A specialized computer vision tracker that analyzes microscopic pollen displacement using OpenCV and statistical physics to compute the Avogadro Constant dynamically with a minimal 0.23% margin of error.
-
-
 
 ---
 
