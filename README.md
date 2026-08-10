@@ -27,6 +27,9 @@ My core focus is building **zero-dependency AI pipelines from mathematical first
 
 ## 🛠️ Featured Projects
 
+### 🕸️ [Deep Learning: Multi-Layer Perceptron (MLP) From Scratch](https://github.com/Bilal-gul/numpy-neural-network-from-scratch)
+A zero-dependency deep learning pipeline implementing a complete neural network architecture to classify Cat vs. Dog images entirely from scratch using mathematical first principles and NumPy. Features custom object-oriented layers, forward and backward propagation mechanisms, custom activation functions (ReLU, Softmax), Cross-Entropy loss calculation, and gradient-based optimization algorithms (SGD, Momentum) without relying on PyTorch, TensorFlow, or any high-level ML frameworks.
+
 ### 🧠 [Ensemble Learning Algorithms From Scratch](https://github.com/Bilal-gul/Ensemble-Learning-From-Scratch)
 A zero-dependency machine learning lab implementing powerful tree-based ensemble algorithms (**Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost**) entirely from scratch using NumPy. Features custom splitting criteria (Gini Impurity, Variance Reduction), sequential training, weight updates, and custom evaluation metrics without relying on Scikit-Learn or any high-level frameworks.
 
