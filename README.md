@@ -48,7 +48,7 @@ A zero-dependency machine learning pipeline implementing vectorized Multiple Lin
 ### 📊 [Bank Marketing Campaign Prediction](https://github.com/Bilal-gul/Bank-Marketing-Classification)
 An applied machine learning pipeline designed to predict term deposit subscriptions while tackling severe class imbalance. Features comprehensive data preprocessing, feature engineering, and model comparison across various algorithms (Logistic Regression, KNN, Decision Trees, Random Forest, Extra Trees). Includes rigorous hyperparameter optimization via 5-fold GridSearchCV and robust evaluation prioritizing F1-score, precision, and recall over standard accuracy.
 
-### 📊 [IoT Device & Telemetry Management System](https://github.com/Bilal-gul/IoT-Device-Telemetry-Management-System)
+### ⚙️ [IoT Device & Telemetry Management System](https://github.com/Bilal-gul/IoT-Device-Telemetry-Management-System)
 An advanced enterprise relational database architecture built with T-SQL. Implements horizontal time-based database partitioning, real-time trigger-based risk evaluation engines, and pre-compiled structural monitoring views.
 
 ### 🌌 [Autonomous Brownian Motion Analyzer & Avogadro Calculator](https://github.com/Bilal-gul/avogadro-brownian-motion-tracker)
