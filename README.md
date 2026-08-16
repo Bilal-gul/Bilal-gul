@@ -45,6 +45,9 @@ A zero-dependency machine learning project implementing **Logistic Regression fr
 ### 💎 [Diamond Price Prediction from Scratch](https://github.com/Bilal-gul/Diamond-Price-Prediction-from-Scratch)
 A zero-dependency machine learning pipeline implementing vectorized Multiple Linear Regression and Gradient Descent from scratch using NumPy. Features advanced feature transformations and zero-leakage normalization, achieving a **90.67% R² score**.
 
+### 📊 [Bank Marketing Campaign Prediction](https://github.com/Bilal-gul/Bank-Marketing-Classification)
+An applied machine learning pipeline designed to predict term deposit subscriptions while tackling severe class imbalance. Features comprehensive data preprocessing, feature engineering, and model comparison across various algorithms (Logistic Regression, KNN, Decision Trees, Random Forest, Extra Trees). Includes rigorous hyperparameter optimization via 5-fold GridSearchCV and robust evaluation prioritizing F1-score, precision, and recall over standard accuracy.
+
 ### 📊 [IoT Device & Telemetry Management System](https://github.com/Bilal-gul/IoT-Device-Telemetry-Management-System)
 An advanced enterprise relational database architecture built with T-SQL. Implements horizontal time-based database partitioning, real-time trigger-based risk evaluation engines, and pre-compiled structural monitoring views.
 
