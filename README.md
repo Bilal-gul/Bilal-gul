@@ -27,6 +27,9 @@ My core focus is building **zero-dependency AI pipelines from mathematical first
 
 ## 🛠️ Featured Projects
 
+### 🛡️ [PhishGuard — ML-Based Phishing URL Detection](https://github.com/Bilal-gul/phishguard-database)
+An end-to-end cybersecurity project for detecting phishing URLs using machine learning. Combines URL feature extraction, a trained ML model, a FastAPI backend, a web interface, and a Microsoft SQL Server database. Includes relational database design, an ER diagram, stored procedures, triggers, views, and Docker-based deployment.
+
 ### 🕸️ [Deep Learning: Multi-Layer Perceptron (MLP) From Scratch](https://github.com/Bilal-gul/numpy-neural-network-from-scratch)
 A zero-dependency deep learning pipeline implementing a complete neural network architecture to classify Cat vs. Dog images entirely from scratch using mathematical first principles and NumPy. Features custom object-oriented layers, forward and backward propagation mechanisms, custom activation functions (ReLU, Softmax), Cross-Entropy loss calculation, and gradient-based optimization algorithms (SGD, Momentum) without relying on PyTorch, TensorFlow, or any high-level ML frameworks.
 
